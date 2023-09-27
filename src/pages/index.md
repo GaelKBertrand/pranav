@@ -1,8 +1,8 @@
 ---
 templateKey: index-page
 title: Your Trusted Guide in Polity, Governance, and Ethics for UPSC Civil Services
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
+image: /img/whatsapp-image-2023-09-26-at-22.10.10-1-.jpeg
+heading: Pranav Vasta Coaching Services
 subheading: "Welcome to the world of excellence in UPSC Civil Services
   preparation with Mr. Pranav Vatsa! "
 mainpitch:
